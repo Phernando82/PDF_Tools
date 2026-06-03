@@ -41,7 +41,7 @@ A desktop application for common PDF operations, built with Python and PySide6. 
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/pdf-tools.git
+git clone https://github.com/Phernando82/PDF_Tools.git
 cd pdf-tools
 ```
 
